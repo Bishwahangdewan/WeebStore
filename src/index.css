@@ -21,3 +21,7 @@ a{
 width:95%;
 margin:auto;
 }
+
+*{
+  box-sizing:border-box;
+}
